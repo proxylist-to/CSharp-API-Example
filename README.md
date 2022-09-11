@@ -1,2 +1,2 @@
 # CSharp-API-Example
-C# API Example for ProxyList.to
+C# API Example for the https://proxylist.to/ API.
